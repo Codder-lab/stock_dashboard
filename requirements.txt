@@ -1,0 +1,8 @@
+yfinance==0.2.40
+pandas==2.2.2
+numpy==2.0.0
+streamlit==1.37.0
+plotly==5.22.0
+alpha_vantage==3.0.0
+stocknews==0.9.11
+DateTime==5.5
